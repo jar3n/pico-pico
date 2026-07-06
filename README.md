@@ -20,6 +20,8 @@ You can access the MD book here: https://pico.implrust.com/
 or you can run locally
 
 ```sh
+cargo install mdbook
+cargo install mdbook-tabs
 mdbook serve --open
 ```
 
