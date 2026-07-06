@@ -21,6 +21,7 @@ or you can run locally
 
 ```sh
 git clone git@github.com:ImplFerris/pico-pico.git
+cd pico-pico
 cargo install mdbook mdbook-tabs
 mdbook serve --open
 ```
